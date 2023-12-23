@@ -61,7 +61,7 @@ Program:
 
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: DEVASANJAY N
-RegisterNumber: 23013004 
+RegisterNumber: 212223040032 
 Code :  ![Exp1 code](https://github.com/DEVASANJAY002/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152069249/247fcd16-499c-41cf-870c-6a0bffa05a0a)
 
 Truthtable : 
